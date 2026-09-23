@@ -4,8 +4,6 @@
 
 I bring three years of experience in EAM, master data and data quality, and I am pursuing an MSc in Technology-Based Business Development. I am developing my SQL, Python, Power BI and product skills to connect reliable data with useful business decisions.
 
-I’m interested in student roles across **data analytics, digitalization, product management, EAM/master data, renewable energy and technology-based business development**. My portfolio explores industrial operations, energy flexibility and digital products through reproducible, clearly documented case studies.
-
 ## Selected projects
 
 | Project | Business question | What you can review |
